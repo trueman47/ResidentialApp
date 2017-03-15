@@ -1,0 +1,2 @@
+class SalesFigure < ApplicationRecord
+end
