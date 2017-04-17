@@ -25,4 +25,11 @@ class ResidentialController < ApplicationController
                       .order(:jurisdiction)
     render :json => {:scatter_data => data}
   end  
+  
+  def boxplot
+  end
+  
+  def boxplot_data
+    
+  end  
 end
